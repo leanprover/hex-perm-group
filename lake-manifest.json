@@ -1,16 +1,21 @@
-{"version": "1.2.0",
- "packagesDir": ".lake/packages",
- "packages":
- [{"url": "https://github.com/leanprover/hex-basic.git",
-   "type": "git",
-   "subDir": null,
-   "scope": "",
-   "rev": "38d0794d2a3dae4ca080b40e0694d212cc357f33",
-   "name": "HexBasic",
-   "manifestFile": "lake-manifest.json",
-   "inputRev": "v0.5.0",
-   "inherited": false,
-   "configFile": "lakefile.toml"}],
- "name": "«hex-perm-group»",
- "lakeDir": ".lake",
- "fixedToolchain": false}
+{
+  "version": "1.2.0",
+  "packagesDir": ".lake/packages",
+  "packages": [
+    {
+      "url": "https://github.com/leanprover/hex-basic.git",
+      "type": "git",
+      "subDir": null,
+      "scope": "",
+      "rev": "a7de08cb8ff56c86e43ddb909e16df78e672a303",
+      "name": "HexBasic",
+      "manifestFile": "lake-manifest.json",
+      "inputRev": "v0.6.0",
+      "inherited": false,
+      "configFile": "lakefile.toml"
+    }
+  ],
+  "name": "\u00abhex-perm-group\u00bb",
+  "lakeDir": ".lake",
+  "fixedToolchain": false
+}
