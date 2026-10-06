@@ -18,10 +18,16 @@ public import HexPermGroup.Group
 public import HexPermGroup.Normalize
 public import HexPermGroup.Build
 public import HexPermGroup.Build.Bounded
+public import HexPermGroup.Kernel.Pack
+public import HexPermGroup.Kernel.Check
+public import HexPermGroup.Kernel.Certify
 public import HexPermGroup.Subgroup
 public import HexPermGroup.Conjugate
 public import HexPermGroup.Predicates
 public import HexPermGroup.Rank
+public import HexPermGroup.Order
+public import HexPermGroup.Rank.Order
+public import HexPermGroup.Tactic
 public import HexPermGroup.Enumerate
 public import HexPermGroup.Membership
 public import HexPermGroup.Action.Image
