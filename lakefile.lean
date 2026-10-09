@@ -5,7 +5,7 @@ package «hex-perm-group» where
   leanOptions := #[⟨`doc.verso, true⟩, ⟨`doc.verso.suggestions, false⟩]
 
 require HexBasic from git
-  "https://github.com/leanprover/hex-basic.git" @ "v0.8.0"
+  "https://github.com/leanprover/hex-basic.git" @ "v0.9.0"
 
 @[default_target]
 lean_lib HexPermGroup where
